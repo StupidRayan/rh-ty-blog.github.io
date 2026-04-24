@@ -16,4 +16,4 @@ On thursday we started the day off by doing our stand ups and working on our dia
 <img width="170" height="200" alt="image" src="https://github.com/user-attachments/assets/dc34524b-8250-45eb-8b6c-f2fe7f6fb1c7" />
 
 # FRIYAY
-Today we started off with our standups and voted on which pizzas we want from dominos at lunch.
+Today we started off with our standups and voted on which pizzas we want from dominos at lunch. We then got free Red Hat Merchandise and took pictures outside. Then we recieved a workshop on Raspberry Pi, and played a reaction game on the raspberry pi. Then we got a workshop on Mictobits
